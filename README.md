@@ -32,6 +32,8 @@ The sections below describe the requirements and the dataset and model files.
 
 We kindly request that users cite our paper in any publication that is generated as a result of the use of our source code, our dataset or our pre-trained models.
 
+**Note**: although this GitHub repository was created in May 2020, the original code has been available from the [authors' website](https://cic.unb.br/~teodecampos/LeNER-Br/) since September 2018.
+
 ## Requirements
 1. [Python 3.6](https://www.python.org/downloads/)	
 3. [pip](https://pip.pypa.io/en/stable/installing/)
